@@ -1,0 +1,1 @@
+#Aprimore o desafio 093 para que funcione para vários jogadores, incluindo um sistema de vizualização de detalhes do aproveitamento de cada jogador.

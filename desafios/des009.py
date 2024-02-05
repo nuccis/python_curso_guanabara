@@ -1,0 +1,13 @@
+#Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada
+v = int(input('Digite o valor da tabuada que deseja: '))
+print('='*5,f'Tabuada do {v}','='*5)
+print(f'{v} * 01 = {v*1}')
+print(f'{v} * 02 = {v*2}')
+print(f'{v} * 03 = {v*3}')
+print(f'{v} * 04 = {v*4}')
+print(f'{v} * 05 = {v*5}')
+print(f'{v} * 06 = {v*6}')
+print(f'{v} * 07 = {v*7}')
+print(f'{v} * 08 = {v*8}')
+print(f'{v} * 09 = {v*9}')
+print(f'{v} * 10 = {v*10}')
