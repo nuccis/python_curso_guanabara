@@ -1,7 +1,7 @@
 #Funções
 def resumo(v, acres=0, desc=0):
     print('-'*35)
-    print('RESUMO DO VALOR'.center(30))
+    print('RESUMO DO VALOR'.center(35))
     print('-'*35)
     print(f'Preço analisado: \t{moeda(v)}')
     print(f'Dobro do preço: \t{dobro(v, formatar=True)}')
